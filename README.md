@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 * **Kotlin:** Primary language for development
 * **Jetpack Compose:** Declarative UI toolkit for Android
